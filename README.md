@@ -1,4 +1,4 @@
-# Time for *P* values to P off?
+# Time for *P* values to P off?
 
 A presentation on *P* values and effect sizes.
 
