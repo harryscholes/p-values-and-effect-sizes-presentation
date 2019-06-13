@@ -1,2 +1,2 @@
 using Weave
-convert_doc("weave.jmd", "weave.ipynb")
+convert_doc("presentation.jmd", "presentation.ipynb")
